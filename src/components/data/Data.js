@@ -1,0 +1,198 @@
+export const topPicks = [
+  {
+    id: 1,
+    title: "Shawarma",
+    price: "$850",
+    img: "https://veenaazmanov.com/wp-content/uploads/2016/09/Easy-Shawarma-Chicken-Recipe22-500x500.png",
+  },
+  {
+    id: 2,
+    title: "Fruit Juice",
+    price: "$900",
+    img: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/4/shutterstock_1By_stockcreations.jpg",
+  },
+  {
+    id: 3,
+    title: "Yogurt Parfaite",
+    price: "$450",
+    img: "https://dinnerthendessert.com/wp-content/uploads/2018/12/Parfait-2-500x500.jpg",
+  },
+  {
+    id: 4,
+    title: "Chinese Pizza",
+    price: "$850",
+    img: "https://qph.cf2.quoracdn.net/main-qimg-3a7ea8d68ca7da5d995cbeba2447e656-lq",
+  },
+  {
+    id: 5,
+    title: "Egg & Plantain",
+    price: "$250",
+    img: "https://mynigerianfood.co.uk/system/photos/281/large/IMG_2797.JPG",
+  },
+  {
+    id: 6,
+    title: "Tilapia Fish",
+    price: "$650",
+    img: "https://www.chelseasmessyapron.com/wp-content/uploads/2022/06/Air-Fryer-Tilapia-3-480x270.jpeg",
+  },
+  {
+    id: 7,
+    title: "Jollof Rice",
+    price: "$150",
+    img: "https://assets.sainsburys-groceries.co.uk/gol/west-african-style-jollof-rice/original.jpg",
+  },
+  {
+    id: 8,
+    title: "African Salad",
+    price: "$150",
+    img: "https://guardian.ng/wp-content/uploads/2021/10/Abacha.-Photo-Agathas_cuisine.jpg",
+  },
+];
+export const mealData = [
+  {
+    id: 9,
+    title: "Cheeseless Pizza",
+    category: "pizza",
+    price: "$500",
+    img: "https://www.acouplecooks.com/wp-content/uploads/2019/08/Cheeseless-Pizza-008-800x1000.jpg",
+  },
+  {
+    id: 10,
+    title: "Supreme Pizza",
+    category: "pizza",
+    price: "$550",
+    img: "https://www.nordicware.com/wp-content/uploads/2021/05/46400_traditional_pizza_pan_02_e.jpg",
+  },
+  {
+    id: 11,
+    title: "Pepperoni Pizza",
+    category: "pizza",
+    price: "$450",
+    img: "https://img.freepik.com/premium-photo/fresh-tasty-pizza-with-pepperoni-isolated-white_136401-2336.jpg",
+  },
+  {
+    id: 12,
+    title: "Cheese Pizza",
+    category: "pizza",
+    price: "$300",
+    img: "https://static.toiimg.com/thumb/53110049.cms?width=1200&height=900",
+  },
+  {
+    id: 13,
+    title: "African Salad",
+    category: "salad",
+    price: "$150",
+    img: "https://guardian.ng/wp-content/uploads/2021/10/Abacha.-Photo-Agathas_cuisine.jpg",
+  },
+  {
+    id: 14,
+    title: "Kale Salad",
+    category: "salad",
+    price: "$100",
+    img: "https://static01.nyt.com/images/2018/10/30/dining/apple-cheddar-kale-salad/merlin_145792368_0de6b697-1f58-47a9-a046-901c388cec32-threeByTwoMediumAt2X.jpg",
+  },
+  {
+    id: 15,
+    title: "Ceaser Salad",
+    category: "salad",
+    price: "$200",
+    img: "https://www.jessicagavin.com/wp-content/uploads/2022/06/chicken-caesar-salad-28-1200.jpg",
+  },
+  {
+    id: 16,
+    title: "Loaded Salad",
+    category: "salad",
+    price: "$150",
+    img: "https://greenhealthycooking.com/wp-content/uploads/2021/07/Chopped-Salad.jpg",
+  },
+  {
+    id: 17,
+    title: "Chicken Shawarma",
+    category: "Chicken",
+    price: "$150",
+    img: "https://whatsgabycooking.com/wp-content/uploads/Chicken-Shawarma-Stuffed-Pita-Pockets.jpg",
+  },
+  {
+    id: 18,
+    title: "Wings",
+    category: "Chicken",
+    price: "$150",
+    img: "https://www.foodjunkieuk.co.uk/wp-content/uploads/2020/05/IMG_4584.jpg?v=1589810586",
+  },
+  {
+    id: 19,
+    title: "Chicken Tenders",
+    category: "Chicken",
+    price: "$150",
+    img: "https://images-gmi-pmc.edge-generalmills.com/3973d54d-0004-4c06-a9d1-0843f3bf3efa.jpg",
+  },
+  {
+    id: 20,
+    title: "Roasted Chicken",
+    category: "Chicken",
+    price: "$150",
+    img: "https://assets.epicurious.com/photos/62f16ed5fe4be95d5a460eed/1:1/w_4318,h_4318,c_limit/RoastChicken_RECIPE_080420_37993.jpg",
+  },
+];
+export const category = [
+  {
+    id: 1,
+    title: "Burger",
+    img: "https://drive.google.com/uc?id=1aMYo_7ax_0LO7IOXcl94EwlPlKbDSY5H",
+  },
+  {
+    id: 2,
+    title: "chicken",
+    img: "https://drive.google.com/uc?id=1NMM79p7F4GJXYg8EUMs1jQ3DZXKsxqJd",
+  },
+  {
+    id: 3,
+    title: "pizza",
+    img: "https://drive.google.com/uc?id=1tXZmrsQ9kz5Slsd3-Xg_ypbYu_RXe9Ij",
+  },
+  {
+    id: 4,
+    title: "Shawarma",
+    img: "https://drive.google.com/uc?id=1YAxAK8-JUtOpjERhNHcBO5RxaWugMBIF",
+  },
+  {
+    id: 5,
+    title: "Vegetable",
+    img: "https://drive.google.com/uc?id=1MLUwMFnHeoE0dz2iDXkmkBrIm_Ji0DcT",
+  },
+  {
+    id: 6,
+    title: "IceCream",
+    img: "https://drive.google.com/uc?id=1C7KGvljxQ_uUuYUQHVSy5tSS4GWrHtmX",
+  },
+  {
+    id: 7,
+    title: "Beef",
+    img: "https://drive.google.com/uc?id=18n6foaBfzAsMPYwh0_O5-_5iDfOIo6kf",
+  },
+  {
+    id: 8,
+    title: "Cake",
+    img: "https://drive.google.com/uc?id=1eAgMYTRJL79tSgjCy7yq6EKvM_ZC-mvV",
+  },
+  {
+    id: 9,
+    title: "Wings",
+    img: "https://drive.google.com/uc?id=1xt5rfVaxbRNx7qGgiy11_vc22g6_4p7B",
+  },
+  {
+    id: 10,
+    title: "FastFood",
+    img: "https://drive.google.com/uc?id=1Uywe7rKltX-C1x4Yia8l8KNz7HHes2Mf",
+  },
+  {
+    id: 11,
+    title: "Ressto",
+    img: "https://drive.google.com/uc?id=18n6foaBfzAsMPYwh0_O5-_5iDfOIo6kf",
+  },
+  {
+    id: 12,
+    title: "apple",
+    img: "https://drive.google.com/uc?id=1yKINmmnMpCTb7wa07nAysKOokrque3-O",
+  },
+];
