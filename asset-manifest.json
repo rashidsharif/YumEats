@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YumEats/static/css/main.e1de2928.css",
+    "main.js": "/YumEats/static/js/main.79c3d01b.js",
+    "index.html": "/YumEats/index.html",
+    "main.e1de2928.css.map": "/YumEats/static/css/main.e1de2928.css.map",
+    "main.79c3d01b.js.map": "/YumEats/static/js/main.79c3d01b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1de2928.css",
+    "static/js/main.79c3d01b.js"
+  ]
+}
